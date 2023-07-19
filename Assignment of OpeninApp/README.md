@@ -1,10 +1,12 @@
 
 # Lip Sync AI Model
 
-The Lip Sync AI Model is an advanced deep learning project that focuses on achieving precise lip synchronization between audio and video files. The primary goal of this project is to develop an AI model capable of accurately matching the lip movements of characters in a given video file with the corresponding audio file, resulting in a natural-looking and seamless lip-sync effect.
+The Lip Sync AI Model is an advanced deep-learning project that focuses on achieving precise lip synchronization between audio and video files. The primary goal of this project is to develop an AI model capable of accurately matching the lip movements of characters in a given video file with the corresponding audio file, resulting in a natural-looking and seamless lip-sync effect.
 
-# My Jupyter Book Link
+## My Jupyter Book Link
+https://drive.google.com/file/d/15yeGNe8jRK4MfBIrN71hNhlpGNHo_yRn/view?usp=drive_link
 
+As the file is more than 25 MB and I have compressed but still more than 25 mb so I have uploaded my Jupyter book on google drive.
 
 ## Objectives
 
